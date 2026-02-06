@@ -56,4 +56,4 @@ CREATE DATABASE db_cadastro_aluno;
 ---
 
 <p style="color: red;">Desenvolvedor(es) </p>
-[Vedilson Prado](https://www.linkedin.com/in/maria-vitorino-7a5035369/)
+[Maria Eduarda Vitorino da Silva](https://www.linkedin.com/in/maria-vitorino-7a5035369/)
